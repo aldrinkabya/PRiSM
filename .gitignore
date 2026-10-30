@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+
+data/
+results/
+datasets.tar
+
+*.pt
+*.pth
+*.bin
+*.safetensors
